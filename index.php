@@ -31,20 +31,18 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="img_chania.jpg" alt="Chania" width="460" height="345">
+        <img src="C:\Users\System_adminAk\Desktop\Akshay\img1.jpg" alt="Pokemon" width="460" height="345">
       </div>
 
       <div class="item">
-        <img src="img_chania2.jpg" alt="Chania" width="460" height="345">
+        <img src="C:\Users\System_adminAk\Desktop\Akshay\img1.jpg" alt="Pokemon" width="460" height="345">
       </div>
     
       <div class="item">
-        <img src="img_flower.jpg" alt="Flower" width="460" height="345">
+        <img src="C:\Users\System_adminAk\Desktop\Akshay\img.jpg" alt="Flower" width="460" height="345">
       </div>
 
-      <div class="item">
-        <img src="img_flower2.jpg" alt="Flower" width="460" height="345">
-      </div>
+      
     </div>
 
     <!-- Left and right controls -->
