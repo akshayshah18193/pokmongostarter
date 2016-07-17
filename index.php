@@ -66,6 +66,7 @@
 </nav>
   
 <div class="container-fluid text-center">
+</div>
 </body>
     
     </html>
